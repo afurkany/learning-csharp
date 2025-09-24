@@ -1,0 +1,15 @@
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\bin\Debug\net8.0\Static.exe
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\bin\Debug\net8.0\Static.deps.json
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\bin\Debug\net8.0\Static.runtimeconfig.json
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\bin\Debug\net8.0\Static.dll
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\bin\Debug\net8.0\Static.pdb
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.AssemblyInfoInputs.cache
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.AssemblyInfo.cs
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.sourcelink.json
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.dll
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\refint\Static.dll
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.pdb
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\Static.genruntimeconfig.cache
+C:\Users\u20z42\Documents\Personal\DataCamp\xx_Repos\learning-csharp\Static\obj\Debug\net8.0\ref\Static.dll
